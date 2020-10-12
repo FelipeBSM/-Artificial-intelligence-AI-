@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(12, 12, 12);
+}
+h3 {
+    font-family: 'Quantico', sans-serif;
+    color: white;
+    letter-spacing: 4px;
+    text-align:center;
+}
+h4 {
+    color: white;
+    font-family: 'Bungee Shade', cursive;
+    font-size:2rem;
+}
+#play {
+    position: absolute;
+    left: 640px;
+    top: 200px;
+}
+#try {
+    position: absolute;
+    left: 1240px;
+    top:200px;
+}
+h2 {
+    color:white;
+    font-family: 'Bungee Shade', cursive;
+    text-align: center;
+    font-size: 4rem;
+    letter-spacing: 4px;
+}
+#UI {
+    text-align:center; 
+    color:white;
+}
+#HScore {
+    text-align:center;
+    color:white;
+}
+#pre-Game{
+    margin-top:4rem;
+}
